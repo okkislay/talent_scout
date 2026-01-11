@@ -1,0 +1,19 @@
+[
+    {
+        "timestamp": "2026-01-11 11:37:43",
+        "conversation_history": [
+            {
+                "role": "assistant",
+                "content": "Hello! I am TalentScout. To get started, could you please tell me your full name?"
+            },
+            {
+                "role": "user",
+                "content": "abid"
+            },
+            {
+                "role": "assistant",
+                "content": "Nice to meet you, Abid. Now, could you please share your email address with me? This will help me keep in touch with you about the interview process."
+            }
+        ]
+    }
+]
